@@ -1,5 +1,6 @@
 **Note: I am NOT submitting for the Beginner Track**
 
+** Fire Challenge: Home Energy Revolution** 
 # EcoHabitat 
 
 For KuriusHacks, I am proposing an educational platform called EcoHabitat. This aims to encourage individuals to learn more about the energy consumption of different household applications and then make mindful decisions. The fun elements added in this application will motivate the younger generation to use it.
