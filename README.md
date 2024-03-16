@@ -1,6 +1,5 @@
 **Note: I am NOT submitting for the Beginner Track**
 
-**Fire Challenge: Home Energy Revolution** 
 # EcoHabitat 
 
 For KuriusHacks, I am proposing an educational platform called EcoHabitat. This aims to encourage individuals to learn more about the energy consumption of different household applications and then make mindful decisions. The fun elements added in this application will motivate the younger generation to use it.
@@ -28,6 +27,9 @@ With our fun Watt Search feature, you can upload an image of a home appliance an
 
 ![search](public/images/readme3.png)
 
+# Feature: User Profile
+
+Users can evaluate how their daily average energy consumption (in Watts) changed over the past months. We can also have a gamification aspect such that users can build up streaks if they regularly use the app. This can encourage them to use it more often.
 
 # Feature: Event Directory
 
@@ -83,7 +85,7 @@ Overcoming challenges described above. Since I haven't worked with React much be
 * Improving data: Adding info about more household applications
 * Custom Image Classification Model: We can use Google's Teachable Machine to train our own model with various different household applications but that would require huge datasets.
 * User Login/Signup page
-* A backend / database where all the user info is stored
+* A backend / database where all the energy consumption and user data is stored
 
 
 # Try it Out
