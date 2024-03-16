@@ -1,0 +1,26 @@
+{
+  "name": "portfolio_nextjs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && next export",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.0",
+    "@material-ui/core": "^4.12.4",
+    "ml5": "^0.12.2",
+    "next": "12.0.9",
+    "ngrok": "^4.3.3",
+    "react": "^18.2.0",
+    "react-icons": "^4.8.0",
+    "recharts": "^2.12.2",
+    "styled-components": "^5.3.9",
+    "styled-normalize": "^8.0.7"
+  },
+  "devDependencies": {
+    "next-optimized-images": "^1.4.2"
+  }
+}
