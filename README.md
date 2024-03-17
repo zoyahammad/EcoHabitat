@@ -88,16 +88,17 @@ Overcoming challenges described above. Since I haven't worked with React much be
 * A backend / database where all the energy consumption and user data is stored
 
 
-# Try it Out
 
-## NPM Installation
+## Local Setup
+
+**NPM Installation**
 
 https://radixweb.com/blog/installing-npm-and-nodejs-on-windows-and-mac
 ```
 npm install next@latest react@latest react-dom@latest
 npm install @mui/material @emotion/react @emotion/styled
 ```
-## Run the project
+**Run the project**
 
 Run:
 ```
@@ -105,6 +106,10 @@ npm run dev
 ```
 
 Open ```http://localhost:3000/``` in your browser.
+
+# Try it Out
+
+https://ecohabitat.netlify.app/
 
 ## Test Images
 
